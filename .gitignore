@@ -1,0 +1,25 @@
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Office Temporary / Lock files
+~$*.xlsx
+~$*.xlsm
+~$*.pptx
+~$*.docx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+*.log
+
+# IDE
+.vscode/
+.idea/
