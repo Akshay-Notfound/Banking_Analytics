@@ -1,16 +1,68 @@
 <div align="center">
 
-# 🏦 Banking Analytics & Business Intelligence
-### *End-to-End Enterprise Lending Risk, Portfolio Health & Cash Flow Transaction Analytics*
+  <!-- NATIVE ANIMATED CYBER BANNER -->
+  <img src="assets/banner.svg" width="100%" alt="BANKING ANALYTICS & RISK TELEMETRY Banner" />
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
-[![MySQL 8.0](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Excel](https://img.shields.io/badge/Microsoft_Excel-Pivot_Dashboards-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
-[![Tableau](https://img.shields.io/badge/Tableau_Desktop-Interactive_BI-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
-[![Power BI](https://img.shields.io/badge/Power_BI-DAX_Modeling-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshay-Notfound/Banking_Analytics)
+  <br/><br/>
 
-<br/>
+  <!-- ANIMATED TYPING SVG -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=900&height=50&lines=Developed+by+Akshay+%26+Tejaswini+(Group-4);Banking+Analytics+%26+Lending+Risk+Intelligence;End-to-End+BI%3A+MySQL+%7C+Excel+%7C+Tableau+%7C+Power+BI;65%2C535+Loans+%7C+%E2%82%B9732.7M+Disbursed+%7C+100K+Transactions;10.84%25+Delinquency+Rate+%7C+AML+Suspicious+Risk+Detection" alt="Typing SVG Banner" /></a>
+
+  <!-- Author Badges -->
+  <p align="center">
+    <a href="https://github.com/Akshay-Notfound">
+      <img src="https://img.shields.io/badge/Data%20Engineer-Akshay-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Akshay - Data Engineer" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/shubhtej1505/">
+      <img src="https://img.shields.io/badge/Business%20Analyst-Tejaswini-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="Tejaswini - Business Analyst" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/Akshay-Notfound/Banking_Analytics">
+      <img src="https://img.shields.io/badge/Team-Group--4%20(P1402)-7C3AED?style=for-the-badge&logo=users&logoColor=white" alt="Group-4" />
+    </a>
+  </p>
+
+  <!-- Project Badges -->
+  <p align="center">
+    <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="License" /></a>
+    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /></a>
+    <a href="https://www.microsoft.com/excel"><img src="https://img.shields.io/badge/Microsoft_Excel-Pivot_Dashboards-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" /></a>
+    <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau_Desktop-Interactive_BI-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" /></a>
+    <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-DAX_Modeling-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" /></a>
+    <a href="https://github.com/Akshay-Notfound/Banking_Analytics"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+  </p>
+
+  ---
+
+  ### 👥 Project Authors & Collaboration Hub (Group-4)
+  *Engineered and delivered collaboratively: Akshay (Data Engineer) & Tejaswini (Business Analyst):*
+
+  <p align="center">
+    <img src="assets/team_contributors.gif" alt="Group-4 Contributors: Akshay & Tejaswini" width="98%" style="border-radius: 12px; box-shadow: 0 8px 25px rgba(0,0,0,0.5);" />
+  </p>
+
+  ---
+
+  ### 🎛️ Animated Multi-Dashboard Cinematic Showcase
+  *Continuous cross-platform intelligence across Power BI, Tableau, Excel, and MySQL Workbench:*
+
+  <p align="center">
+    <img src="assets/dashboard_showcase.gif" alt="Banking Analytics Showcase Animation" width="98%" style="border-radius: 14px; box-shadow: 0 12px 35px rgba(0,0,0,0.6);" />
+  </p>
+
+  ---
+
+  ### 📊 Real-Time Metric Ticker
+  *Dual-domain KPIs reconciled across 65,535 loan accounts and 100,000 retail cash flow transactions:*
+
+  <p align="center">
+    <img src="assets/kpi_metrics_ticker.gif" alt="Banking Analytics KPI Ticker Animation" width="98%" style="border-radius: 10px; box-shadow: 0 8px 25px rgba(0,0,0,0.4);" />
+  </p>
+
+  ---
+
+  <br/>
 
 **[📖 Overview](#-project-overview)** • **[🗺️ Roadmap](#-data-pipeline--architecture)** • **[📂 Repo Diagram](#-visual-repository-architecture)** • **[💳 Loan Analytics](#-part-1-bank-loan-portfolio-analytics)** • **[📈 Transaction Analytics](#-part-2-credit--debit-transaction-analytics)** • **[💡 Insights](#-business-insights--risk-matrix)** • **[👥 Team](#-group-4-project-team)**
 
@@ -61,6 +113,10 @@ Both systems were modeled and cross-verified across **Microsoft Excel**, **MySQL
 ---
 
 ## 🗺️ Data Pipeline & Architecture
+
+<p align="center">
+  <img src="assets/data_pipeline_flow.gif" alt="Banking Analytics End-to-End Pipeline Flow" width="98%" style="border-radius: 10px; box-shadow: 0 8px 25px rgba(0,0,0,0.4);" />
+</p>
 
 ```mermaid
 flowchart TD
@@ -485,13 +541,23 @@ LIMIT 20;
 
 ---
 
-## 👥 Group 4 Project Team
+## 👥 Project Team & Contributors (Group-4)
 
-This project was developed by **Group 4 (Batch P1402)**:
+This enterprise banking analytics and risk intelligence initiative was collaboratively engineered and delivered by **Group 4 (Batch P1402)**:
 
-* 👤 **Akshay Shivaji Rathod** *(Project Lead & Analytics Developer)*
+<div align="center">
+
+| Contributor | Role & Domain Focus | GitHub Profile |
+| :---: | :--- | :---: |
+| <a href="https://github.com/Akshay-Notfound"><img src="assets/avatar_akshay.png" width="85px;" alt="Akshay" style="border-radius: 50%;" /><br /><sub><b>Akshay</b></sub></a> | **Data Engineer**<br />• MySQL 8.0 Staging & Window Functions (`ROW_NUMBER`, `LAG`)<br />• Star Schema Dimensional Modeling & Fact Table Engineering<br />• Cross-Tool Reconciliation & Data Architecture | [![GitHub](https://img.shields.io/badge/Akshay--Notfound-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshay-Notfound) |
+| <a href="https://github.com/shubhtej1505/"><img src="assets/avatar_tejaswini.png" width="85px;" alt="Tejaswini" style="border-radius: 50%;" /><br /><sub><b>Tejaswini</b></sub></a> | **Business Analyst**<br />• Business Intelligence & Executive Dashboard Design<br />• Delinquency Transition Metrics & Portfolio Health<br />• Report Synthesis & Risk Telemetry Storytelling | [![GitHub](https://img.shields.io/badge/shubhtej1505-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhtej1505/) |
+
+</div>
+
+### 🌟 Full Group-4 Project Team Roster
+* 👤 **Akshay Shivaji Rathod** *(Data Engineer & Technical Lead)*
+* 👤 **Tejaswini Bhagwan Kothawade** *(Business Analyst & BI Co-Lead)*
 * 👤 **Vaibhavi Dattatreya Karavkar**
-* 👤 **Tejaswini Bhagwan Kothawade**
 * 👤 **Dileep Ponduru**
 * 👤 **Surada Sagar**
 * 👤 **Ankita Chandrakant Thaware**
